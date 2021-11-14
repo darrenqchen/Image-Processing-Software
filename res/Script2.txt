@@ -1,0 +1,12 @@
+create res/DontTouch/Sunset.png sunset
+create res/DontTouch/Skater.png skater
+select skater
+remove sunset
+hide skater
+show skater
+apply sepia
+save res/oldTimeySkater.png
+create res/DontTouch/Sunset.png sunset
+hide sunset
+saveAll res/twoLayers
+createMulti res/twoLayers

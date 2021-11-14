@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Homework 7 - Image Processing (Part 3):jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Homework_7___Image_Processing__Part_3__jar</output-path>
+    <root id="archive" name="Homework 7 - Image Processing (Part 3).jar">
+      <element id="module-output" name="Homework 7 - Image Processing (Part 3)" />
+    </root>
+  </artifact>
+</component>

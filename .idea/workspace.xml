@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="539f0e09-fbcb-418e-9046-a786a6495921" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit3 Test Class" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1uK3j58jTj9UgT7YMYll4VfWpb3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\darre\OneDrive - Northeastern University\2021 Summer 1 (1st Year)\CS3500 - Object Oriented Design\Homework\Homework 7 - Image Processing (Part 3)\res" />
+      <recent name="C:\Users\darre\OneDrive - Northeastern University\2021 Summer 1 (1st Year)\CS3500 - Object Oriented Design\Homework\Homework 7 - Image Processing (Part 3)\res\DontTouch" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="model.transformation" />
+      <recent name="view" />
+      <recent name="controller" />
+      <recent name="controller.actioncommand" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JAR Application.Homework 7 - Image Processing (Part 3).jar">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Homework 7 - Image Processing (Part 3)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Homework 7 - Image Processing (Part 3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework 7 - Image Processing (Part 3)" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DownscaleTransformationTest.testScaleY" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework 7 - Image Processing (Part 3)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.transformation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model.transformation" />
+      <option name="MAIN_CLASS_NAME" value="model.transformation.DownscaleTransformationTest" />
+      <option name="METHOD_NAME" value="testScaleY" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GUIViewTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework 7 - Image Processing (Part 3)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="view" />
+      <option name="MAIN_CLASS_NAME" value="view.GUIViewTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework 7 - Image Processing (Part 3).jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/res/Homework 7 - Image Processing (Part 3).jar" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JAR Application.Homework 7 - Image Processing (Part 3).jar" />
+      <item itemvalue="JUnit.DownscaleTransformationTest.testScaleY" />
+      <item itemvalue="JUnit.All in Homework 7 - Image Processing (Part 3)" />
+      <item itemvalue="JUnit.GUIViewTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.Homework 7 - Image Processing (Part 3).jar" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.All in Homework 7 - Image Processing (Part 3)" />
+        <item itemvalue="JUnit.GUIViewTest" />
+        <item itemvalue="JUnit.DownscaleTransformationTest.testScaleY" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="539f0e09-fbcb-418e-9046-a786a6495921" name="Default Changelist" comment="" />
+      <created>1624400589715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624400589715</updated>
+      <workItem from="1624400590970" duration="1883000" />
+      <workItem from="1624403272392" duration="9229000" />
+      <workItem from="1624460769804" duration="1868000" />
+      <workItem from="1624465176814" duration="16944000" />
+      <workItem from="1624550009315" duration="22688000" />
+      <workItem from="1624596701675" duration="2903000" />
+      <workItem from="1624642025144" duration="2278000" />
+      <workItem from="1624644330637" duration="1258000" />
+      <workItem from="1624646737178" duration="7431000" />
+      <workItem from="1624654267502" duration="5516000" />
+      <workItem from="1624666750435" duration="2184000" />
+      <workItem from="1624729452788" duration="8648000" />
+      <workItem from="1624764619295" duration="26000" />
+      <workItem from="1624816231190" duration="7524000" />
+      <workItem from="1624914977785" duration="594000" />
+      <workItem from="1624985954405" duration="596000" />
+      <workItem from="1626024687634" duration="1190000" />
+      <workItem from="1626112764627" duration="634000" />
+      <workItem from="1628639834179" duration="628000" />
+      <workItem from="1628718122305" duration="1608000" />
+      <workItem from="1628880896005" duration="930000" />
+      <workItem from="1628887960535" duration="1615000" />
+      <workItem from="1628894067617" duration="598000" />
+      <workItem from="1635478520156" duration="99000" />
+      <workItem from="1635478638511" duration="598000" />
+      <workItem from="1635535559046" duration="598000" />
+      <workItem from="1635804333938" duration="24000" />
+      <workItem from="1635804372480" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
